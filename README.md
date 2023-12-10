@@ -1,6 +1,6 @@
 # My-ML-Career
 A list of projects I will take on to go from an average ML engineer to an AI expert.
-In no particular order, all this concepts will be learnt, mastered and the corresponding Github Repositories will be attached to each of the projects.
+In no particular order, all these concepts will be learned, and mastered and the corresponding GitHub Repositories will be attached to each of the projects.
 
 1: Tensor manipulations in Tensorflow and PyTorch.
 
@@ -22,4 +22,6 @@ In no particular order, all this concepts will be learnt, mastered and the corre
 
 9: Implementation of Generative Adversarial Networks for Image.
 
-10: Adding RLHF to a custom trained micro-llm to fine-tune it to respond to human questions.
+10: Adding RLHF to a custom-trained micro-LLM to fine-tune it to respond to human questions.
+
+### And David girded his sword upon his armor, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him.
