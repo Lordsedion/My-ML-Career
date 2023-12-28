@@ -16,7 +16,7 @@ In no particular order, all these concepts will be learned, and mastered and the
 
 6: Word Embeddings.
 
-7: Implementation of Transformer Network for NLP.
+7: Implementation of Transformer Network for Machine Translation Task.
 
 8: Implementation of Vision Transformer.
 
